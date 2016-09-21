@@ -12,6 +12,7 @@ public class BaseActivity extends AppCompatActivity {
         setContentView(R.layout.activity_base);
         Log.e("BaseActivity",getClass().getSimpleName());
         Log.e("MainActivity","test");
+        Log.e("MainActivity","test2");
     }
 
     public void getname(){
